@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Virus Attack</string>
+    <string name="virus_attack">Virus Attack</string>
+    <string name="play">Tap here to play</string>
+</resources>
